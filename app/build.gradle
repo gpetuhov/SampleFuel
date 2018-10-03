@@ -39,4 +39,7 @@ dependencies {
     // Kotlin Coroutines
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutinesVersion"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutinesVersion"
+
+    // Fuel
+    implementation 'com.github.kittinunf.fuel:fuel-android:1.15.0'
 }
